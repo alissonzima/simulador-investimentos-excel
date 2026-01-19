@@ -2,8 +2,8 @@
 
 ## 📌 Descrição do Projeto
 
-Este projeto consiste no desenvolvimento de uma ferramenta simples em **Excel** para simulação de investimentos.  
-A planilha permite calcular de forma automatizada o **valor total investido**, o **patrimônio acumulado ao longo do tempo** e os **dividendos mensais**, auxiliando o investidor a visualizar o impacto de seus aportes e da taxa de rendimento.
+Este projeto consiste no desenvolvimento de uma ferramenta simples em **Excel** para simulação de investimentos de forma geral.  
+A planilha permite calcular de forma automatizada o **valor total investido**, o **patrimônio acumulado ao longo do tempo** e os **rendimentos mensais**, contemplando diferentes tipos de investimentos — incluindo **fundos imobiliários**.
 
 O objetivo é oferecer uma solução prática, acessível e didática, voltada principalmente para **investidores iniciantes**, servindo também como base para futuras expansões e personalizações.
 
@@ -31,7 +31,8 @@ A planilha permite ao usuário:
 - Visualizar:
   - Valor total investido;
   - Patrimônio acumulado ao longo do tempo;
-  - Estimativa de dividendos mensais.
+  - Estimativa de dividendos mensais;
+- Comparação gráfica entre três cenários de investimento, incluindo fundos imobiliários.
 
 Todos os cálculos são realizados automaticamente, facilitando a análise e a tomada de decisão.
 
@@ -91,4 +92,6 @@ Este desafio permitiu consolidar conhecimentos tanto em Excel quanto em GitHub, 
 
 ---
 
-## Projeto desenvolvido como parte do curso da DIO
+## 📌 Projeto desenvolvido como parte do curso da DIO
+
+Projeto desenvolvido como parte de um desafio prático da **Digital Innovation One (DIO)**, com foco na aplicação de conceitos de Excel e no uso do GitHub para entrega e documentação de projetos.
