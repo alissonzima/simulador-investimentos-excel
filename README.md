@@ -1,4 +1,4 @@
-# Simulador de Investimentos em Fundos Imobiliários (Excel)
+# Simulador de Investimentos (Excel)
 
 ## 📌 Descrição do Projeto
 
@@ -28,7 +28,6 @@ A planilha permite ao usuário:
 - Definir o **valor do investimento inicial**;
 - Informar **aportes mensais**;
 - Determinar o **período de investimento**;
-- Configurar a **taxa de rendimento mensal**;
 - Visualizar:
   - Valor total investido;
   - Patrimônio acumulado ao longo do tempo;
@@ -52,10 +51,28 @@ Todos os cálculos são realizados automaticamente, facilitando a análise e a t
 ---
 
 ## 📁 Estrutura do Repositório
+```
+├── README.md  
+├── Simulador_Investimentos.xlsx  
+└── images/  
+    ├── config.png  
+    ├── projecoes.png  
+    └── grafico.png  
+```
+A pasta `images` contém capturas de tela da planilha para demonstrar a configuração, projeção e visualização gráfica dos resultados.
 
-├── README.md
+---
 
-└── investimentos.xlsx
+## 📸 Visão Geral da Planilha
+
+### Configuração do Investimento
+![Configuração](images/config.png)
+
+### Projeção de Investimentos
+![Projeção](images/projecoes.png)
+
+### Gráfico de Evolução
+![Gráfico](images/grafico.png)
 
 ---
 
